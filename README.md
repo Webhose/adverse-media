@@ -6,6 +6,8 @@
 
 Welcome to the [Webz.io](https://webz.io) Adverse Media News Dataset Repository! This repository is created by [Webz.io](https://webz.io) and is dedicated to providing free datasets of publicly available news articles categorized as Adverse Media news. We release new datasets weekly, each containing around 1,000 news articles focused on Adverse Media news.
 
+The data is created by running the following query against Webz.io open web repository: ```site_type:news sentiment:negative category:"Economy, Business and Finance" language:english ```
+
 To get ongoing free access to online news data, you can use Webz.io's free [News API](https://webz.io/products/news-api#lite) Lite. 
 
 ## Dataset Overview
